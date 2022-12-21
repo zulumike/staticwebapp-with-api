@@ -1,0 +1,9 @@
+15.12.2022:
+
+    Tidligere fulgt anvisning til punkt og prikke:
+        https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-web-app/static-web-app-with-swa-cli/introduction
+    Kom til kapittel 6, der hvor jeg skal starte og teste lokalt.
+    Får feilmelding på swa.
+    Både app og function starter og går, men swa (proxy) påstår at app ikke er ready.....
+    Litt samme problem som jeg nå har fått i handleapp nå også. swa kobler seg ikke til....
+    Mistenker problem med node versjon eller lignende... Burde ikke være det da...
