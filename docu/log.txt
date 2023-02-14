@@ -9,4 +9,10 @@
     Mistenker problem med node versjon eller lignende... Burde ikke være det da...
 
     Problemet var node versjon. Installerte tidligere versjon og ting fungerte bedre.
+
+14.02.2023:
+    Siden det nå er ok, fortsatte jeg med anvisningen.
+    NB: Måtte justere koden bittelitt i NavBar.tsx og PrivateHome.tsx. Dette gjalt kapittel 7 om autentisering
+    La til :any slik: ({user}:any)
+    
     
